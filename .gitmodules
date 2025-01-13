@@ -1,3 +1,0 @@
-[submodule "task-manager-frontend"]
-	path = task-manager-frontend
-	url = ./task-manager-frontend
